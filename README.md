@@ -1,4 +1,4 @@
-# MyCRM---Customer-Realtion-Manager
+# MyCRM---Customer-Relatioship-Manager
 Cadastro de Clientes
 Serviços
 Produtos
